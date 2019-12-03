@@ -1,7 +1,7 @@
 {
 	"lang": "de",
-	"type": "instruction",
-	"form": "continue",
+	"type": "INSTRUCTION",
+	"form": "CONTINUE",
 	"short": "Bringe die Person in die stablie Seitenlage!",
 	"help":
 	[

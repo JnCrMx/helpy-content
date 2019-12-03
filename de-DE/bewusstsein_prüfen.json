@@ -1,7 +1,7 @@
 {
 	"lang": "de",
-	"type": "health_check",
-	"form": "predicament",
+	"type": "HEALTH_CHECK",
+	"form": "PREDICAMENT",
 	"short": "Ist die Person bei Bewusstsein?",
 	"help":
 	[

@@ -1,7 +1,7 @@
 {
 	"lang": "de",
-	"type": "information",
-	"form": "continue",
+	"type": "INFORMATION",
+	"form": "CONTINUE",
 	"short": "Beginne mit der Erstversorgung des Verletzten! Sage \"Weiter\" um forzufahren und \"Hilfe\" um weitere Informationen zu erhalten!",
 	"help":
 	[
