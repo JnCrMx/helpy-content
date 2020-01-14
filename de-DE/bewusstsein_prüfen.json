@@ -10,6 +10,6 @@
 	"options":
 	[
 		{"answers": ["ja", "positiv"], "target": "stabile_seitenlage"},
-		{"answers": ["nein", "negativ"], "target": "atmung_prüfen"}
+		{"answers": ["nein", "negativ"], "target": "atmung_prÃ¼fen"}
 	]
 }
