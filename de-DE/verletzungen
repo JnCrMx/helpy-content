@@ -1,0 +1,15 @@
+{
+	"lang": "de",
+	"type": "HEALTH_CHECK",
+	"form": "PREDICAMENT",
+	"short": "Verletzungen",
+	"help":
+	[
+		"Sind Verletzungen erkennbar?"
+	],
+	"options":
+	[
+		{"answers": ["ja", "positiv"], "Bitte behandel die Verletzungen bei Wunden mit Desinfektionsmittel und bei Verbrennungen mit kaltem Wasser."},
+		{"answers": ["nein", "negativ"], "Bitte untersuche den Patienten genauer, achte aber dabei auf seine Kleidung. Er könnte auch auf seiner Verletzung liegen."}
+	]
+}
