@@ -5,11 +5,11 @@
 	"short": "Ist die Person bei Bewusstsein?",
 	"help":
 	[
-		"Kannst du mir der Person reden?"
+		"Kannst du mit der Person reden?"
 	],
 	"options":
 	[
-		{"answers": ["ja", "positiv"], "target": "stabile_seitenlage"},
+		{"answers": ["ja", "positiv"], "target": "verletzungen"},
 		{"answers": ["nein", "negativ"], "target": "atmung_prüfen"}
 	]
 }
