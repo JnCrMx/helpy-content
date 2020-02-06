@@ -7,6 +7,8 @@
 	[
 		"Ist ein Defibrillator in der Nähe?"
 	],
+	"bild": "https://www.drk.de/fileadmin/_processed_/7/2/csm_wiederbelebung_thema3_2fa4b0d575.jpg",
+	"musik": "https://www.youtube.com/watch?v=4sF0Pq1w2SQ",
 	"options":
 	[
 		{"answers": ["ja", "positiv"], "Bitte folge den Sprachanweisungen des Gerätes."},
