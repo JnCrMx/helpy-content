@@ -10,6 +10,6 @@
 	"image": "welcome.svg",
 	"options":
 	[
-		{"answers": ["weiter"], "target": "bewusstsein_prüfen"}
+		{"answers": ["weiter"], "target": "auffinden_einer_person"}
 	]
 }
