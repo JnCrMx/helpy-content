@@ -10,6 +10,6 @@
 	"options":
 	[
 		{"answers": ["ja", "positiv"], "target": "stabile_seitenlage"},
-		{"answers": ["nein", "negativ"], "target": "fremdkörper_in_speiseröhre"}
+		{"answers": ["nein", "negativ"], "target": "herz_lungen_wiederbelebung"}
 	]
 }
