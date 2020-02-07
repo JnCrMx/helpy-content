@@ -1,0 +1,15 @@
+{
+	"lang": "de",
+	"type": "INFORMATION",
+	"form": "CONTINUE",
+	"short": "Selbstschutz",
+	"help":
+	[
+		"Ist die Lage um dich und den Patienten sicher? Besteht keine Gefahr?"
+	],
+	"options":
+	[
+		{"answers": ["ja", "positiv"], "target": "bewusstsein_prüfen"},
+		{"answers": ["nein", "negativ"], "target": "Bitte versuche das Gebiet um den Patienten abzusichern und bitte andere Personen dir zu helfen."}
+	]
+}
