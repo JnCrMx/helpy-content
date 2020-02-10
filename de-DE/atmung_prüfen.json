@@ -9,7 +9,7 @@
 	],
 	"options":
 	[
-		{"answers": ["ja", "positiv"], "target": "stabile_seitenlage"},
-		{"answers": ["nein", "negativ"], "target": "herz_lungen_wiederbelebung"}
+		{"id": 0, "answers": ["ja", "positiv"], "target": "stabile_seitenlage"},
+		{"id": 1, "answers": ["nein", "negativ"], "target": "herz_lungen_wiederbelebung"}
 	]
 }

@@ -10,6 +10,6 @@
 	"video": "stablie_seitenlage.mp4",
 	"options":
 	[
-		{"answers": ["ok", "fertig", "erledigt", "weiter"], "target": "verletzungen"}
+		{"id": 0, "answers": ["ok", "fertig", "erledigt", "weiter"], "target": "verletzungen"}
 	]
 }

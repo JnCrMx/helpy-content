@@ -10,6 +10,6 @@
 	"image": "welcome.svg",
 	"options":
 	[
-		{"answers": ["weiter"], "target": "auffinden_einer_person"}
+		{"id": 0, "answers": ["weiter"], "target": "auffinden_einer_person"}
 	]
 }
