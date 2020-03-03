@@ -9,7 +9,6 @@
 	],
 	"options":
 	[
-		{"id": 0, "answers": ["ja", "positiv"], "target": "bewusstsein_pruefen"},
-		{"id": 1, "answers": ["nein", "negativ"], "message": "Bitte versuche das Gebiet um den Patienten abzusichern und bitten sie andere Personen ihnen zu helfen."}
+		{"id": 0, "answers": ["weiter", "ja", "positiv"], "target": "bewusstsein_pruefen"},
 	]
 }

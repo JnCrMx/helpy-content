@@ -1,0 +1,13 @@
+{
+	"lang": "de",
+	"type": "INSTRUCTION",
+	"form": "CONTINUE",
+	"short": "Bitte behandel die Verletzungen bei Wunden mit Desinfektionsmittel und bei Verbrennungen mit kaltem Wasser. Decke die Person zu und beruhige sie, bis der Rettungswagen eintrifft.",
+	"help":
+	[
+	],
+	"options":
+	[
+		{"id": 0, "answers": ["weiter", "ja", "positiv"], "message": "Warte auf den Krankenwagen."}
+	]
+}

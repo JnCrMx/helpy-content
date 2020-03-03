@@ -9,7 +9,7 @@
 	],
 	"options":
 	[
-		{"id": 0, "answers": ["ja", "positiv"], "message": "Bitte behandel die Verletzungen bei Wunden mit Desinfektionsmittel und bei Verbrennungen mit kaltem Wasser. Decke die Person zu und beruhige sie, bis der Rettungswagen eintrifft."},
+		{"id": 0, "answers": ["ja", "positiv"], "target": "verletzungen_behandeln"},
 		{"id": 1, "answers": ["nein", "negativ"], "message": "Bitte untersuche den Patienten genauer, achte aber dabei auf seine Kleidung. Er könnte auch auf seiner Verletzung liegen."}
 	]
 }

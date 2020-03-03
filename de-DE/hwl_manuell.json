@@ -1,0 +1,16 @@
+{
+	"lang": "de",
+	"type": "INSTRUCTION",
+	"form": "CONTINUE",
+	"short": "Lege deine Hände wie auf dem Bild gezeigt auf die Brust des Patienten. Drücke die Brust des Patienten 30 mal ca. 5cm tief ein. Be-/Entlastungsdauer sollten gleich lang sein. Strecke dann den Kopf des Patienten nach hinten, halte seine Nase zu und blase für eine Sekunde Luft in den Mund des Patienten, sodass sich sein Brustkorb sichtbar hebt. Wiederholde den Vorgang bis die Rettungskräfte eintreffen oder der Patient selbst Atmen kann.",
+	"help":
+	[
+		""
+	],
+	"image": "https://www.drk.de/fileadmin/_processed_/7/2/csm_wiederbelebung_thema3_2fa4b0d575.jpg",
+	"sound": "https://www.youtube.com/watch?v=4sF0Pq1w2SQ",
+	"options":
+	[
+		{"id": 0, "answers": ["weiter", "ja", "positiv"], "message": "Bitte folge den Sprachanweisungen des Gerätes."},
+	]
+}
