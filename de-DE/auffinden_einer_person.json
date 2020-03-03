@@ -9,6 +9,6 @@
 	],
 	"options":
 	[
-		{"id": 0, "answers": ["weiter", "ja", "positiv"], "target": "bewusstsein_pruefen"},
+		{"id": 0, "answers": ["weiter", "ja", "positiv"], "target": "bewusstsein_pruefen"}
 	]
 }
